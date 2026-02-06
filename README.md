@@ -63,6 +63,7 @@ Deploy the finished application using Vercel and provide:
 - The deployed application URL
 - Login credentials to access the app
 - Any additional setup instructions if needed
+- A link to the completed Github repo 
 
 ## Evaluation Criteria
 
