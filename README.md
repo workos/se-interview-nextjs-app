@@ -56,14 +56,14 @@ Implement the User Management Widget in this application. You'll need to:
 3. Handle authentication properly - you'll need to generate a widget token on the backend
 4. Ensure the widget integrates well with the existing application
 
-### Submission
+## Submission
 
 Deploy the finished application using Vercel and provide:
 
 - The deployed application URL
 - Login credentials to access the app
 - Any additional setup instructions if needed
-- A link to the completed Github repo 
+- A link to the Github repo for code review
 
 ## Evaluation Criteria
 
@@ -77,7 +77,7 @@ Your implementation will be evaluated on:
 
 ## Bonus
 
-- Implement additional widgets on top of the User Management widget
+- On a new branch, use an AI tool of your choice to expand the functionality into a full fledged Admin Settings dashboard. Use [widget skills](https://workos.com/blog/widget-skills) to rebuild and redesign the functionality you implemented with widgets directly and expand it in any direction that makes sense. Be creative, and be ready to talk through your choices!
 
 ## Resources
 
